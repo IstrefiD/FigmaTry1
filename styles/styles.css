@@ -1,0 +1,107 @@
+html
+{
+position: relative;
+width: 100%;
+height: 920px;
+background: #FFFFFF;
+}
+
+
+
+/* MinLogo. */
+.company-logo
+{
+ position: absolute;
+ width: 122px;
+ height: 35px;
+ margin-left: 138px;
+ margin-top: 34px;
+ font-family: 'Montserrat', sans-serif;
+ font-style: bold;
+ font-weight: 600;
+ font-size: 25px;
+ line-height: 29px;
+ color: #000000;
+}
+
+/* Logo 1 */
+
+.logo-img
+{
+    position: absolute;
+    width: 100%;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+}
+
+.main-h1
+{
+position: absolute;
+width: 528px;
+height: 121px;
+left: 175px;
+top: 554px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+
+color: #000000;
+}
+
+.main-para
+{
+    position: absolute;
+    width: 360.85px;
+    height: 80.38px;
+    left: 184px;
+    top: 669.71px;
+    
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    
+    color: #000000;   
+}
+
+.contact-btn
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 144px;
+    height: 49px;
+    left: 184px;
+    top: 756px;
+    background: #0610FC;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: absolute;
+    width: 119px;
+    height: 25px;
+    left: 209px;
+    top: 772px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+}
+.contact-btn a
+{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.main-pc-img
+{
+    position: absolute;
+    width: 563px;
+    height: 492px;
+    margin-left: 950px;
+    margin-top: 362px;  
+}
